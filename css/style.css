@@ -22,9 +22,11 @@ header, nav, main, footer {
 
 /* Header styles */
 header { 
+	background-color: #000;
 	color: #FBC818;
 	min-height: 100px;
 	margin-top: 60px;
+	background-image: url("../images/Clouds.JPG");
 }
 
 header h1 {
