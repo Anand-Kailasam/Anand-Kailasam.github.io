@@ -3,7 +3,7 @@
 }
 
 body {
-	background: #FAEBD7 url('../images/vintage-concrete.png');
+	background: #FAEBD7 url('../images/Clouds.JPG');
 	color: #333;
 }
 
@@ -23,7 +23,7 @@ header, nav, main, footer {
 /* Header styles */
 header { 
 	background-color: #000;
-	color: BlanchedAlmond;
+	color: #FBC818;
 	min-height: 100px;
 	margin-top: 60px;
 	background-image: url("../images/Clouds.JPG");
