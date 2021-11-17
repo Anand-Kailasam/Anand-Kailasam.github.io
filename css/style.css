@@ -12,7 +12,7 @@ a {
 	color: #333;
 }
 
-a:hover { color: Tomato; }
+a:hover { color: #FbC818; }
 
 header, nav, main, footer {
 	width: 80%;
@@ -42,7 +42,7 @@ nav ul {
 	justify-content: flex-end;
 }
 nav li { padding: 10px 10px; }
-nav a { color: BlanchedAlmond; }
+nav a { color: #FBC818; }
 nav a:hover { color: white; }
 
 
